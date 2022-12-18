@@ -5,6 +5,8 @@ As input we'll use a AHN4 download from Texel - The Netherlands
 
 Online demo: https://bertt.github.io/cesium_terrain/texel/ahn4/
 
+Blog: https://bertt.wordpress.com/2018/11/26/visualizing-terrains-with-cesium-ii/
+
 ![image](https://user-images.githubusercontent.com/538812/208296434-39bb50ec-7acf-4969-9f0a-546ee08138d9.png)
 
 Clone this repository
