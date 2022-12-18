@@ -88,4 +88,11 @@ $ npx serve
 
 In browser go to http://localhost:3000
 
+Note, there is some missing data:
+
+![image](https://user-images.githubusercontent.com/538812/208296521-6d1da1e1-4e2e-43a2-b8ec-fa9b01465a0d.png)
+
+This can be fixed by applying tool gdal_fillnodata (https://gdal.org/programs/gdal_fillnodata.html), it is installed by QGIS (default directory D:\Program Files\QGIS 3.22.3\apps\Python39\Scripts).
+
+
 
