@@ -3,7 +3,9 @@
 Procedure to create a Cesium quantized mesh terrain from a GeoTiff file.
 As input we'll use a AHN4 download from Texel - The Netherlands
 
-Online demo: https://bertt.github.io/cesium_terrain/texel/ahn4/
+Online demo Texel: https://bertt.github.io/cesium_terrain/texel/ahn4/
+
+Online demo Voorhout: https://bertt.github.io/cesium_terrain/voorhout/
 
 Blog: https://bertt.wordpress.com/2018/11/26/visualizing-terrains-with-cesium-ii/
 
