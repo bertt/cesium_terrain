@@ -1,0 +1,30 @@
+{
+  "tilejson": "2.1.0",
+  "name": "M_30GZ1_filled_3857",
+  "description": "",
+  "version": "1.1.0",
+  "format": "quantized-mesh-1.0",
+  "attribution": "",
+  "schema": "tms",
+  "tiles": [ "{z}/{x}/{y}.terrain?v={version}" ],
+  "projection": "EPSG:4326",
+  "bounds": [ 0.00, -90.00, 180.00, 90.00 ],
+  "available": [
+    [ { "startX": 0, "startY": 0, "endX": 1, "endY": 0 } ]
+   ,[ { "startX": 2, "startY": 1, "endX": 2, "endY": 1 } ]
+   ,[ { "startX": 4, "startY": 3, "endX": 4, "endY": 3 } ]
+   ,[ { "startX": 8, "startY": 6, "endX": 8, "endY": 6 } ]
+   ,[ { "startX": 16, "startY": 12, "endX": 16, "endY": 12 } ]
+   ,[ { "startX": 32, "startY": 25, "endX": 32, "endY": 25 } ]
+   ,[ { "startX": 65, "startY": 50, "endX": 65, "endY": 50 } ]
+   ,[ { "startX": 131, "startY": 101, "endX": 131, "endY": 101 } ]
+   ,[ { "startX": 262, "startY": 202, "endX": 262, "endY": 202 } ]
+   ,[ { "startX": 524, "startY": 404, "endX": 524, "endY": 404 } ]
+   ,[ { "startX": 1048, "startY": 808, "endX": 1048, "endY": 808 } ]
+   ,[ { "startX": 2096, "startY": 1616, "endX": 2097, "endY": 1616 } ]
+   ,[ { "startX": 4193, "startY": 3232, "endX": 4195, "endY": 3233 } ]
+   ,[ { "startX": 8387, "startY": 6464, "endX": 8390, "endY": 6466 } ]
+   ,[ { "startX": 16774, "startY": 12928, "endX": 16781, "endY": 12933 } ]
+   ,[ { "startX": 33549, "startY": 25856, "endX": 33563, "endY": 25866 } ]
+  ]
+}
